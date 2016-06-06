@@ -1,2 +1,2 @@
-# magento-extensions
-Magento extensions documentation
+#Magento Social Login Extension v1.0
+Magento Social Login Extension v1.0
