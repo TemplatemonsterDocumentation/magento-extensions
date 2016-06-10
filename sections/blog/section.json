@@ -1,0 +1,61 @@
+{
+	"id":"blog",
+	"translations":
+	{
+		"en":"Blog extension",
+		"ru":"Blog extension",
+		"tr":"Blog extension",
+		"de":"Blog extension",
+		"it":"Blog extension",
+		"fr":"Blog extension",
+		"es":"Blog extension",
+		"pt":"Blog extension",
+		"pl":"Blog extension"
+	},
+	"articles":
+	[
+		{
+			"id":"blog-installation",
+			"translations":{
+				"en":"Installation",
+				"ru":"Installation",
+				"tr":"Installation",
+				"de":"Installation",
+				"es":"Installation",
+				"fr":"Installation",
+				"it":"Installation",
+				"pl":"Installation",
+				"pt":"Installation"
+			}
+		},
+		{
+			"id":"blog-settings",
+			"translations":{
+				"en":"Extension settings",
+				"ru":"Extension settings",
+				"tr":"Extension settings",
+				"de":"Extension settings",
+				"es":"Extension settings",
+				"fr":"Extension settings",
+				"it":"Extension settings",
+				"pl":"Extension settings",
+				"pt":"Extension settings"
+			}
+		}
+		,
+		{
+			"id":"help-support",
+			"translations":{
+				"en":"Help and Support",
+				"ru":"Help and Support",
+				"tr":"Help and Support",
+				"de":"Help and Support",
+				"es":"Help and Support",
+				"fr":"Help and Support",
+				"it":"Help and Support",
+				"pl":"Help and Support",
+				"pt":"Help and Support"
+			}
+		}
+	]
+}
