@@ -4,7 +4,7 @@
 
 <article id="whatismagento">
     <h3>Magento E-Maðaza nedir?</h3>
-    <p>Magento açýk kaynak teknolojisiyle kurulmuþ zengin özellikleri olan bir E-Maðaza platformudur. Maðaza içerikleri ve iþlevsellikleri için esneklik saðlar. Magento'nun yönetici arayüzü güçlü pazarlama, arama optimizasyonu ve katalog yönetimi araçlarýyla, kurumlara tüm ihtiyaçlarýný karþýlayabilen bir site saðlar. Tamamen ölçeklenebilen bir þekilde tasarlanmýþtýr ve Varien destek aðýyla saðlamlaþtýrýlmýþtýr. Magento þirketlere üst düzey E-Maðaza çözümü sunmaktadýr. <a href="http://www.magentocommerce.com/download" target="_blank">Daha fazlasýný oku..</a></p>
+    <p>Magento açýk kaynak teknolojisiyle kurulmuþ zengin özellikleri olan bir E-Maðaza platformudur. Maðaza içerikleri ve iþlevsellikleri için esneklik saðlar. Magento'nun yönetici arayüzü güçlü pazarlama, arama optimizasyonu ve katalog yönetimi araçlarýyla, kurumlara tüm ihtiyaçlarýný karþýlayabilen bir site saðlar. Tamamen ölçeklenebilen bir þekilde tasarlanmýþtýr ve Varien destek aðýyla saðlamlaþtýrýlmýþtýr. Magento þirketlere üst düzey E-Maðaza çözümü sunmaktadýr. <a href="http://www.magentocommerce.com/download" target="_blank">Daha fazlasýný oku..</a></p> 
 </article>
 
 <article id="whatismagentotheme">
