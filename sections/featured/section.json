@@ -2,20 +2,20 @@
 	"id":"blog",
 	"translations":
 	{
-		"en":"Blog extension",
-		"ru":"Blog extension",
-		"tr":"Blog extension",
-		"de":"Blog extension",
-		"it":"Blog extension",
-		"fr":"Blog extension",
-		"es":"Blog extension",
-		"pt":"Blog extension",
-		"pl":"Blog extension"
+		"en":"Featured products extension",
+		"ru":"Featured products extension",
+		"tr":"Featured products extension",
+		"de":"Featured products extension",
+		"it":"Featured products extension",
+		"fr":"Featured products extension",
+		"es":"Featured products extension",
+		"pt":"Featured products extension",
+		"pl":"Featured products extension"
 	},
 	"articles":
 	[
 		{
-			"id":"blog-installation",
+			"id":"featured-products-installation",
 			"translations":{
 				"en":"Installation",
 				"ru":"Installation",
@@ -29,7 +29,7 @@
 			}
 		},
 		{
-			"id":"blog-settings",
+			"id":"featured-products-settings",
 			"translations":{
 				"en":"Extension settings",
 				"ru":"Extension settings",

@@ -13,7 +13,7 @@ if (!isset($sections)) {
     <title><?php echo $doc_title; ?></title>
     <meta charset="utf-8">
     <meta name="format-detection" content="telephone=no"/>
-    <link rel="canonical" href="http://www.templatemonster.com/help/quick-start-guide/magento-extensions/magento-blog-extension-v1-0/"/>
+    <link rel="canonical" href="http://www.templatemonster.com/help/quick-start-guide/magento-extensions/magento-featured-products-extension-v1-0/"/>
     <link rel="icon" href="<?php echo $path; ?>/img/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="<?php echo $path; ?>/css/style.css">
     <link rel="stylesheet" href="<?php echo $path; ?>/css/jquery.fancybox.css">
@@ -49,14 +49,14 @@ if (!isset($sections)) {
             <div class="select select-lang">
                 <select>
                     <option data-href="<?php echo $path; ?>/index.php?lang=en&section=<?php echo $section_param; ?>" <?php echo $lang == "en"? "selected": ""; ?>>EN</option>
-                    <option data-href="<?php echo $path; ?>/index.php?lang=ru&section=<?php echo $section_param; ?>" <?php echo $lang == "ru"? "selected": ""; ?>>RU</option>
+                    <!-- <option data-href="<?php echo $path; ?>/index.php?lang=ru&section=<?php echo $section_param; ?>" <?php echo $lang == "ru"? "selected": ""; ?>>RU</option>
                     <option data-href="<?php echo $path; ?>/index.php?lang=de&section=<?php echo $section_param; ?>" <?php echo $lang == "de"? "selected": ""; ?>>DE</option>
                     <option data-href="<?php echo $path; ?>/index.php?lang=es&section=<?php echo $section_param; ?>" <?php echo $lang == "es"? "selected": ""; ?>>ES</option>
                     <option data-href="<?php echo $path; ?>/index.php?lang=fr&section=<?php echo $section_param; ?>" <?php echo $lang == "fr"? "selected": ""; ?>>FR</option>
                     <option data-href="<?php echo $path; ?>/index.php?lang=it&section=<?php echo $section_param; ?>" <?php echo $lang == "it"? "selected": ""; ?>>IT</option>
                     <option data-href="<?php echo $path; ?>/index.php?lang=pl&section=<?php echo $section_param; ?>" <?php echo $lang == "pl"? "selected": ""; ?>>PL</option>
                     <option data-href="<?php echo $path; ?>/index.php?lang=pt&section=<?php echo $section_param; ?>" <?php echo $lang == "pt"? "selected": ""; ?>>PT</option>
-                    <option data-href="<?php echo $path; ?>/index.php?lang=tr&section=<?php echo $section_param; ?>" <?php echo $lang == "tr"? "selected": ""; ?>>TR</option>
+                    <option data-href="<?php echo $path; ?>/index.php?lang=tr&section=<?php echo $section_param; ?>" <?php echo $lang == "tr"? "selected": ""; ?>>TR</option> -->
                 </select>
             </div>
         </div>

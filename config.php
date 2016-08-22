@@ -3,7 +3,7 @@
 $path = 'http://' . $_SERVER['HTTP_HOST'] . dirname($_SERVER['SCRIPT_NAME']);
 
 // Variables
-$product_name = "Blog documentation";
+$product_name = "Featured products documentation";
 $product_desc = "";
 $doc_title = $product_name . " " . $product_desc;
 
@@ -12,7 +12,7 @@ if (isset($_GET['lang'])) {
 	$lang = $_GET['lang'];
 }
 
-$section_param = 'blog';
+$section_param = 'featured';
 if (isset($_GET['section'])) {
 	$section_param = $_GET['section'];
 }
