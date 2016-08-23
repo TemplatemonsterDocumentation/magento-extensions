@@ -1,0 +1,61 @@
+{
+	"id":"sharing",
+	"translations":
+	{
+		"en":"Social sharing extension",
+		"ru":"Social sharing extension",
+		"tr":"Social sharing extension",
+		"de":"Social sharing extension",
+		"it":"Social sharing extension",
+		"fr":"Social sharing extension",
+		"es":"Social sharing extension",
+		"pt":"Social sharing extension",
+		"pl":"Social sharing extension"
+	},
+	"articles":
+	[
+		{
+			"id":"social-sharing-installation",
+			"translations":{
+				"en":"Installation",
+				"ru":"Installation",
+				"tr":"Installation",
+				"de":"Installation",
+				"es":"Installation",
+				"fr":"Installation",
+				"it":"Installation",
+				"pl":"Installation",
+				"pt":"Installation"
+			}
+		},
+		{
+			"id":"social-sharing-settings",
+			"translations":{
+				"en":"Extension settings",
+				"ru":"Extension settings",
+				"tr":"Extension settings",
+				"de":"Extension settings",
+				"es":"Extension settings",
+				"fr":"Extension settings",
+				"it":"Extension settings",
+				"pl":"Extension settings",
+				"pt":"Extension settings"
+			}
+		}
+		,
+		{
+			"id":"help-support",
+			"translations":{
+				"en":"Help and Support",
+				"ru":"Help and Support",
+				"tr":"Help and Support",
+				"de":"Help and Support",
+				"es":"Help and Support",
+				"fr":"Help and Support",
+				"it":"Help and Support",
+				"pl":"Help and Support",
+				"pt":"Help and Support"
+			}
+		}
+	]
+}
