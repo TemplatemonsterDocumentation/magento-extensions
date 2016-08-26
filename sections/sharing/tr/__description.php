@@ -1,4 +1,4 @@
 <h2 class="item1">Introduction</h2>
-<p>
-    <strong>Social Login</strong> is a top-quality module, specially designed to help your customers log into the website via their social network accounts and share your product information and content on their profile pages. You only need to fill in several fields to make the module perform properly.
-</p>
+<p>Bu modül sayesinde, ürün sayfasında sosyal medya ikonları gösterilir. Böylece ziyaretçiler, ürününüzün adresini farklı sosyal ağlarda paylaşabilirler.</p>
+<figure class="img-polaroid"><img src="img/magento/sharing-1.jpg" alt="" /></figure>
+<p>Bu uygulama, popüler bir hizmet sağlayıcı olan Addthis ile gerçekleştirilir. Sayfanıza sosyal medya ikonları yerleştirip, sitenizdeki ziyaretçilerin etkinliklerini izleyebilmenizi sağlar.</p>

@@ -1,6 +1,6 @@
-<h2>Help &amp; Support</h2>
-In case of any difficulties with the Social Login or any other products of TemplateMonster.com please contact our 24/7 support team for assistance. 
+<h2>Aiuto &amp; Supporto</h2>
+In caso di difficoltà con la Social sharing o altri prodotti di TemplateMonster.com si prega di contattare il nostro team di supporto 24/7  richiedere l'assistenza. 
 <ul class="marked-list">
-    <li><a href="http://chat.template-help.com/" target="_blank">Live chat</a></li>
-    <li><a href="http://support.template-help.com/index.php?/Tickets/Submit"  target="_blank">Help ticket system</a></li>
+    <li><a href="http://chat.template-help.com/" target="_blank">Supporto via Chat dal Vivo (Live Support Chat)</a></li>
+    <li><a href="http://support.template-help.com/index.php?/Tickets/Submit"  target="_blank">Aprire una richiesta (Submit a ticket)</a></li>
 </ul>

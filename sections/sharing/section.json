@@ -18,7 +18,7 @@
 			"id":"social-sharing-installation",
 			"translations":{
 				"en":"Installation",
-				"ru":"Installation",
+				"ru":"Установка",
 				"tr":"Installation",
 				"de":"Installation",
 				"es":"Installation",
@@ -32,7 +32,7 @@
 			"id":"social-sharing-settings",
 			"translations":{
 				"en":"Extension settings",
-				"ru":"Extension settings",
+				"ru":"Настройки модуля",
 				"tr":"Extension settings",
 				"de":"Extension settings",
 				"es":"Extension settings",
@@ -47,7 +47,7 @@
 			"id":"help-support",
 			"translations":{
 				"en":"Help and Support",
-				"ru":"Help and Support",
+				"ru":"Помощь и Техническая поддержка",
 				"tr":"Help and Support",
 				"de":"Help and Support",
 				"es":"Help and Support",

@@ -1,6 +1,6 @@
 <h2 class="item1">Extension settings</h2>
 <h3>General</h3>
-<p>There are 2 main options in this section.</p>
+<p>To set up the module, navigate to <strong>Store -> Configuration ->  Templatemonster-> Social Sharing tab</strong>. Here you’ll find all the settings that are necessary to set up the module.<br>There are 2 main options in this section.</p>
 <figure class="img-polaroid"><img src="img/magento/sharing-2.jpg" alt="" /></figure>
 <table  class="options-table">
     <tr>
@@ -15,7 +15,7 @@
     </tr>    
 </table>
 <p>
-    To get the <strong>Profile Id</strong>, register at the <a target="_blank" href="https://www.addthis.com/"></a> website. After this, you need to create a project in your Dashboard. When creating a project, you’ll be redirected to the General settings, where you’ll see the ID field in General section. You should use this very identifier.
+    To get the <strong>Profile Id</strong>, register at the <a target="_blank" href="https://www.addthis.com/">Addthis</a> website. After this, you need to create a project in your Dashboard. When creating a project, you’ll be redirected to the General settings, where you’ll see the ID field in General section. You should use this very identifier.
 </p>
 <figure class="img-polaroid"><img src="img/magento/sharing-3.jpg" alt="" /></figure>
 <h3>Look &amp; Feel</h3>

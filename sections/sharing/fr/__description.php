@@ -1,4 +1,4 @@
 <h2 class="item1">Introduction</h2>
-<p>
-    <strong>Social Login</strong> is a top-quality module, specially designed to help your customers log into the website via their social network accounts and share your product information and content on their profile pages. You only need to fill in several fields to make the module perform properly.
-</p>
+<p>Ce module vous permet d'afficher les icônes sociales qui sont définies sur la page du produit. De cette façon, on donne à vos visiteurs une occasion de partager des liens aux produits de votre magasin dans les différents réseaux sociaux.</p>
+<figure class="img-polaroid"><img src="img/magento/sharing-1.jpg" alt="" /></figure>
+<p>Cette solution est mise en œuvre grâce au service populaite Addthis. Ce service vous permet de configurer l'affichage des icônes sociales et d'intégrer des instruments supplémentaires pour le suivi de l'activité de vos utilisateurs du site.</p>
