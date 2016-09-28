@@ -1,21 +1,21 @@
 {
-	"id":"social-login",
+	"id":"site-maintenance",
 	"translations":
 	{
-		"en":"Social Login extension",
-		"ru":"Social Login extension",
-		"tr":"Social Login extension",
-		"de":"Social Login extension",
-		"it":"Social Login extension",
-		"fr":"Social Login extension",
-		"es":"Social Login extension",
-		"pt":"Social Login extension",
-		"pl":"Social Login extension"
+		"en":"Site Maintenance extension",
+		"ru":"Site Maintenance extension",
+		"tr":"Site Maintenance extension",
+		"de":"Site Maintenance extension",
+		"it":"Site Maintenance extension",
+		"fr":"Site Maintenance extension",
+		"es":"Site Maintenance extension",
+		"pt":"Site Maintenance extension",
+		"pl":"Site Maintenance extension"
 	},
 	"articles":
 	[
 		{
-			"id":"social-login-installation",
+			"id":"site-maintenance-installation",
 			"translations":{
 				"en":"Installation",
 				"ru":"Installation",
@@ -29,7 +29,7 @@
 			}
 		},
 		{
-			"id":"social-login-settings",
+			"id":"site-maintenance-settings",
 			"translations":{
 				"en":"Extension settings",
 				"ru":"Extension settings",
