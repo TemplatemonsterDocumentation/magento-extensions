@@ -1,0 +1,61 @@
+{
+	"id":"image-zoom",
+	"translations":
+	{
+		"en":"Image Zoom extension",
+		"ru":"Image Zoom extension",
+		"tr":"Image Zoom extension",
+		"de":"Image Zoom extension",
+		"it":"Image Zoom extension",
+		"fr":"Image Zoom extension",
+		"es":"Image Zoom extension",
+		"pt":"Image Zoom extension",
+		"pl":"Image Zoom extension"
+	},
+	"articles":
+	[
+		{
+			"id":"image-zoom-installation",
+			"translations":{
+				"en":"Installation",
+				"ru":"Installation",
+				"tr":"Installation",
+				"de":"Installation",
+				"es":"Installation",
+				"fr":"Installation",
+				"it":"Installation",
+				"pl":"Installation",
+				"pt":"Installation"
+			}
+		},
+		{
+			"id":"image-zoom-settings",
+			"translations":{
+				"en":"Extension settings",
+				"ru":"Extension settings",
+				"tr":"Extension settings",
+				"de":"Extension settings",
+				"es":"Extension settings",
+				"fr":"Extension settings",
+				"it":"Extension settings",
+				"pl":"Extension settings",
+				"pt":"Extension settings"
+			}
+		}
+		,
+		{
+			"id":"help-support",
+			"translations":{
+				"en":"Help and Support",
+				"ru":"Help and Support",
+				"tr":"Help and Support",
+				"de":"Help and Support",
+				"es":"Help and Support",
+				"fr":"Help and Support",
+				"it":"Help and Support",
+				"pl":"Help and Support",
+				"pt":"Help and Support"
+			}
+		}
+	]
+}
