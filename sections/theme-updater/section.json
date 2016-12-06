@@ -1,0 +1,61 @@
+{
+	"id":"theme-updater",
+	"translations":
+	{
+		"en":"Theme Updater extension",
+		"ru":"Theme Updater extension",
+		"tr":"Theme Updater extension",
+		"de":"Theme Updater extension",
+		"it":"Theme Updater extension",
+		"fr":"Theme Updater extension",
+		"es":"Theme Updater extension",
+		"pt":"Theme Updater extension",
+		"pl":"Theme Updater extension"
+	},
+	"articles":
+	[
+		{
+			"id":"theme-updater-installation",
+			"translations":{
+				"en":"Installation",
+				"ru":"Installation",
+				"tr":"Installation",
+				"de":"Installation",
+				"es":"Installation",
+				"fr":"Installation",
+				"it":"Installation",
+				"pl":"Installation",
+				"pt":"Installation"
+			}
+		},
+		{
+			"id":"theme-updater-settings",
+			"translations":{
+				"en":"Extension settings",
+				"ru":"Extension settings",
+				"tr":"Extension settings",
+				"de":"Extension settings",
+				"es":"Extension settings",
+				"fr":"Extension settings",
+				"it":"Extension settings",
+				"pl":"Extension settings",
+				"pt":"Extension settings"
+			}
+		}
+		,
+		{
+			"id":"help-support",
+			"translations":{
+				"en":"Help and Support",
+				"ru":"Help and Support",
+				"tr":"Help and Support",
+				"de":"Help and Support",
+				"es":"Help and Support",
+				"fr":"Help and Support",
+				"it":"Help and Support",
+				"pl":"Help and Support",
+				"pt":"Help and Support"
+			}
+		}
+	]
+}
